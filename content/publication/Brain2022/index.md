@@ -13,8 +13,8 @@ image:
   focal_point: ""
   preview_only: true
 projects: [TOM]
-publication: 'Brain, doi: 10.1093/brain/awab441'
-publication_short: "Brain, doi: 10.1093/brain/awab441"
+publication: 'Brain, 145(5):1818–1829'
+publication_short: "Brain, 145(5):1818–1829"
 publication_types:
 - "2"
 publishDate: "2022-03-08T00:00:00Z"
