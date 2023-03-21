@@ -3,7 +3,7 @@ abstract: In the last two years, governments of many countries imposed heavy soc
 authors:
 - Lia Antico
 - admin
-date: "2022-03-15T00:00:00Z"
+date: "2023-03-06T00:00:00Z"
 doi: "10.1177/17470218221094772"
 featured: false
 image: 
@@ -11,11 +11,11 @@ image:
   focal_point: ""
   preview_only: true
 projects: []
-publication: 'Quarterly Journal of Experimental Psychology'
-publication_short: "QJEP"
+publication: 'Quarterly Journal of Experimental Psychology, 76(3) 554-567'
+publication_short: "QJEP, 76(3), 554-567"
 publication_types:
 - "2"
-publishDate: "2022-03-15T00:00:00Z"
+publishDate: "2023-03-06T00:00:00Z"
 slides: 
 summary:
 tags: [pain,emotion,empathy,disgust,Unpleasantness,Social cognition,Social interactions,Social Exclusion,Cyberball,Social Distress,Facial Expressions,face processing,emotion expression,Covid-19,sequential-task paradigm]
