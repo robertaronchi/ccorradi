@@ -15,10 +15,10 @@ image:
   focal_point: ""
   preview_only: true
 projects: [manage,embody,executive_pain]
-publication: 'bioRxiv, doi: 10.1101/2022.06.09.495450'
-publication_short: "bioRxiv, doi: 10.1101/2022.06.09.495450"
+publication: 'Scientific Reports, doi: 10.1101/2022.06.09.495450'
+publication_short: "Scientific Reports, doi: 10.1101/2022.06.09.495450"
 publication_types:
-- "3"
+- "2"
 publishDate: "2021-06-13T00:00:00Z"
 slides: 
 summary:

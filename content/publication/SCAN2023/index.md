@@ -4,15 +4,15 @@ authors:
 - Nicolas Silvestrini
 - admin
 date: "2023-03-21T00:00:00Z"
-doi: "10.1101/2022.06.20.496774"
+doi: "10.1093/scan/nsad018"
 featured: false
 image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
 projects: [executive_pain]
-publication: 'Social Cognitive and Affective Neuroscience'
-publication_short: "SCAN"
+publication: 'Social Cognitive and Affective Neuroscience, 18, nsad018'
+publication_short: "SCAN, 18, nsad018"
 publication_types:
 - "2"
 publishDate: "2023-03-21T00:00:00Z"

@@ -10,7 +10,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
-projects: [manage]
+projects: 
 publication: 'PsyArXiv, doi: 10.31234/osf.io/qrbza'
 publication_short: "PsyArXiv, doi: 10.31234/osf.io/qrbza"
 publication_types:
