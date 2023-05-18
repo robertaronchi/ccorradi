@@ -7,7 +7,7 @@ authors:
 - Nicolas Silvestrini
 - Sophie Schwartz
 - admin
-date: "2022-06-13T00:00:00Z"
+date: "2023-05-13T00:00:00Z"
 doi: "10.1101/2022.06.09.495450"
 featured: false
 image: 
@@ -19,7 +19,7 @@ publication: 'Scientific Reports, doi: 10.1101/2022.06.09.495450'
 publication_short: "Scientific Reports, doi: 10.1101/2022.06.09.495450"
 publication_types:
 - "2"
-publishDate: "2021-06-13T00:00:00Z"
+publishDate: "2023-05-13T00:00:00Z"
 slides: 
 summary:
 tags: [pain,nociception,Pain Management,empathy,attention,cognitive control,Top-down,Bottom-up,empathy,Social cognition,Self-Other distinction,third party,Social interactions,effort,fatigue,sequential-task paradigm,Electrophysiology,Skin Conductance Response,heart rate variability,cardiac response]
