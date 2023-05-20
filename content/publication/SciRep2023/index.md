@@ -8,15 +8,15 @@ authors:
 - Sophie Schwartz
 - admin
 date: "2023-05-13T00:00:00Z"
-doi: "10.1101/2022.06.09.495450"
+doi: "10.1038/s41598-023-35103-w"
 featured: false
 image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
 projects: [manage,embody,executive_pain]
-publication: 'Scientific Reports, doi: 10.1101/2022.06.09.495450'
-publication_short: "Scientific Reports, doi: 10.1101/2022.06.09.495450"
+publication: 'Scientific Reports, 13, 8165, doi: 10.1038/s41598-023-35103-w'
+publication_short: "Sci. Rep., 13, 8165, doi: 10.1038/s41598-023-35103-w"
 publication_types:
 - "2"
 publishDate: "2023-05-13T00:00:00Z"
