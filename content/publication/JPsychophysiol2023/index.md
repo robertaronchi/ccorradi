@@ -3,7 +3,7 @@ abstract: Theoretical accounts of pain and empirical evidence indicate that pain
 authors:
 - Nicolas Silvestrini
 - admin
-date: "2022-06-08T00:00:00Z"
+date: "2023-06-01T00:00:00Z"
 doi: "10.1027/0269-8803/a000308"
 featured: false
 image: 
@@ -11,11 +11,11 @@ image:
   focal_point: ""
   preview_only: true
 projects: [executive_pain]
-publication: 'Journal of Psychophysiology, doi: 10.1027/0269-8803/a000308'
-publication_short: "J Psychophysiol., doi: 10.1027/0269-8803/a000308"
+publication: 'Journal of Psychophysiology, 37(2), 67–78, doi: 10.1027/0269-8803/a000308'
+publication_short: "J Psychophysiol., 37(2), 67–78, doi: 10.1027/0269-8803/a000308"
 publication_types:
 - "2"
-publishDate: "2021-08-27T00:00:00Z"
+publishDate: "2023-06-01T00:00:00Z"
 slides: 
 summary:
 tags: [pain,nociception,attention,cognitive control,Top-down,Bottom-up,effort,sequential-task paradigm,fatigue,Electrophysiology,cardiovascular reactivity]
