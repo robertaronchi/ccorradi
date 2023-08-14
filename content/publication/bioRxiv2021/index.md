@@ -17,7 +17,7 @@ projects: [manage,embody]
 publication: 'bioRxiv, doi: 10.1101/2021.07.01.450687'
 publication_short: "bioRxiv, doi: 10.1101/2021.07.01.450687"
 publication_types:
-- "3"
+- "2"
 publishDate: "2021-01-01T00:00:00Z"
 slides: 
 summary:
