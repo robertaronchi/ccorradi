@@ -8,7 +8,7 @@ authors:
 - Patrik Vuilleumier
 date: "2023-08-01T00:00:00Z"
 doi: "10.1002/HBM.26468"
-featured: false
+featured: true
 image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
