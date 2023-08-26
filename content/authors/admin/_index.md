@@ -10,8 +10,8 @@ role: Neuroscientist - Cognitive Psychologist - Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Geneva
-    url: https://www.unige.ch/
+  - name: University of Trento
+    url: https://www.cimec.unitn.it/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
