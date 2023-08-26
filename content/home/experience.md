@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Maître d’enseignement et de recherché (Lecturer)
+  - title: Assistant Professor (RTDB)
+    company: Center for Mind/Brain Sciences (CIMeC) - University of Trento
+    company_url: 'https://www.unige.ch/medecine/'
+    company_logo: 
+    location: Trento, Italy
+    date_start: '2023-09-01'
+    date_end: ''
+    description:
+
+  - title: Lecturer (Maître d’enseignement et de recherché)
     company: Faculty of Medicine, University of Geneva
     company_url: 'https://www.unige.ch/medecine/'
     company_logo: 
     location: Geneva, Switzerland
     date_start: '2022-01-01'
-    date_end: ''
+    date_end: '2023-08-03'
     description:
 
   - title: Assistant Professor
