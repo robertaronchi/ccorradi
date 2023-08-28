@@ -52,9 +52,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Corrado-Corradi-Dellacqua
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/corrado-corradi/
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/in/corrado-corradi/
   - icon: mastodon
     icon_pack: fab
     link: https://fediscience.org/@CCD
