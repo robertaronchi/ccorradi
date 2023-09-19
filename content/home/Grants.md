@@ -26,7 +26,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2020-06-01"
-  description: "Creation and validation of an innovative VR tool from Geneva *(Principal Investigator, Cyril Sahyoun)*"
+  description: "Creation and validation of an innovative VR tool from Geneva *(Principal Investigator: Cyril Sahyoun)*"
   organization: Fondation Privée des HUG
   organization_url: https://www.fondationhug.org/
   title: "VRelief: the vitual reality to prevent and relief pain in hospitalized children"
