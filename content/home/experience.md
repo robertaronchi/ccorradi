@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Assistant Professor (RTDB)
     company: Center for Mind/Brain Sciences (CIMeC) - University of Trento
-    company_url: 'https://www.unige.ch/medecine/'
+    company_url: 'https://www.cimec.unitn.it/en'
     company_logo: 
     location: Trento, Italy
     date_start: '2023-09-01'
