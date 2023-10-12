@@ -19,7 +19,7 @@ bio:
 # Interests to show in About widget
 interests:
   - Pain
-  - Chemosensation
+  - Chemosensationn
   - Affective Processing
   - Social Cognition
   - Decision-Making
