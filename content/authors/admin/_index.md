@@ -52,6 +52,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Corrado-Corradi-Dellacqua
+  - icon: square
+    icon_pack: fas
+    link: https://bsky.app/profile/ccorradi.bsky.social
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/in/corrado-corradi/
