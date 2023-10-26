@@ -52,15 +52,16 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Corrado-Corradi-Dellacqua
-  - icon: square
+  - icon: mastodon
+    icon_pack: fab
+    link: https://fediscience.org/@CCD
+  - icon: cloud
     icon_pack: fas
     link: https://bsky.app/profile/ccorradi.bsky.social
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/in/corrado-corradi/
-  - icon: mastodon
-    icon_pack: fab
-    link: https://fediscience.org/@CCD
+
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
