@@ -17,7 +17,7 @@ projects: [manage,embody]
 publication: 'Human Brain Mapping, doi: 10.1002/HBM.26468'
 publication_short: "Human Brain Mapping, doi: 10.1002/HBM.26468"
 publication_types:
-- "3"
+- "2"
 publishDate: "2023-08-01T00:00:00Z"
 slides: 
 summary:
