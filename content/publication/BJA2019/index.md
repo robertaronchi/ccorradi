@@ -11,7 +11,7 @@ authors:
 - Olivier Hugli
 date: "2019-01-01T00:00:00Z"
 doi: "10.1016/j.bja.2019.01.039"
-featured: true
+featured: false
 image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
