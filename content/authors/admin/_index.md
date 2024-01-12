@@ -53,9 +53,9 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Corrado-Corradi-Dellacqua
   - icon: mastodon
-    icon_pack: fab
+    icon_pack: hb
     link: https://fediscience.org/@CCD
-  - icon: bluesky
+  - icon: ML
     icon_pack: custom
     link: https://bsky.app/profile/ccorradi.bsky.social
 #  - icon: linkedin
