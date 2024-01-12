@@ -55,8 +55,8 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://fediscience.org/@CCD
-  - icon: cloud
-    icon_pack: fas
+  - icon: bluesky
+    icon_pack: custom
     link: https://bsky.app/profile/ccorradi.bsky.social
 #  - icon: linkedin
 #    icon_pack: fab
