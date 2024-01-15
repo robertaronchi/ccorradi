@@ -11,7 +11,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
-projects: [executive_pain]
+projects: [TOM]
 publication: 'Social Cognitive and Affective Neuroscience'
 publication_short: "SCAN"
 publication_types:
