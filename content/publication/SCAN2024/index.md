@@ -5,15 +5,15 @@ authors:
 - admin
 - Patrik Vuilleumier
 date: "2024-01-14T00:00:00Z"
-doi: ""
+doi: "10.1093/scan/nsae016"
 featured: false
 image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
 projects: [TOM]
-publication: 'Social Cognitive and Affective Neuroscience'
-publication_short: "SCAN"
+publication: 'Social Cognitive and Affective Neuroscience, nsae016'
+publication_short: "SCAN, nsae016"
 publication_types:
 - "2"
 publishDate: "2024-01-14T00:00:00Z"
