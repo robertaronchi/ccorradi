@@ -17,7 +17,7 @@ authors:
 - Luca Tagliabue
 - Olivier Hugli
 date: "2023-03-06T00:00:00Z"
-doi: "10.1177/17470218221094772"
+doi: ""
 featured: false
 image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
