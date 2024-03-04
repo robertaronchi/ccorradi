@@ -16,7 +16,7 @@ authors:
 - Sara Rezzonico
 - Luca Tagliabue
 - Olivier Hugli
-date: "2023-03-06T00:00:00Z"
+date: "2024-03-04T00:00:00Z"
 doi: ""
 featured: false
 image: 
@@ -25,10 +25,10 @@ image:
   preview_only: true
 projects: []
 publication: 'Clinical Psychology and Psychotherapy'
-publication_short: "QJEP, 76(3), 554-567"
+publication_short: "CPP"
 publication_types:
 - "2"
-publishDate: "2023-03-06T00:00:00Z"
+publishDate: "2024-03-04T00:00:00Z"
 slides: 
 summary:
 tags: [emotion,Covid-19,mental health, resilience, wellbeing, healthcare providers]
