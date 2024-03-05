@@ -12,7 +12,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
-projects: [manage]
+projects: [manage, expectancy]
 publication: 'European Journal of Pain, 26, 1163–1175.'
 publication_short: "Eur J Pain, 26, 1163–1175"
 publication_types:
