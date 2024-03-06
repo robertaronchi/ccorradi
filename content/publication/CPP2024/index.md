@@ -14,15 +14,15 @@ authors:
 - Luca Tagliabue
 - Olivier Hugli
 date: "2024-03-04T00:00:00Z"
-doi: ""
+doi: "10.1002/cpp.2969"
 featured: false
 image: 
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/)'
   focal_point: ""
   preview_only: true
 projects: []
-publication: 'Clinical Psychology and Psychotherapy'
-publication_short: "CPP"
+publication: 'Clinical Psychology and Psychotherapy, doi: 10.1002/cpp.2969'
+publication_short: "CPP, doi: 10.1002/cpp.2969"
 publication_types:
 - "2"
 publishDate: "2024-03-04T00:00:00Z"
