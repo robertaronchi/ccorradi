@@ -12,8 +12,8 @@ image:
   focal_point: ""
   preview_only: true
 projects: [TOM]
-publication: 'Social Cognitive and Affective Neuroscience, nsae016'
-publication_short: "SCAN, nsae016"
+publication: 'Social Cognitive and Affective Neuroscience, 19(1), nsae016'
+publication_short: "SCAN, 19(1), nsae016"
 publication_types:
 - "2"
 publishDate: "2024-01-14T00:00:00Z"
