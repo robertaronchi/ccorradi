@@ -21,8 +21,8 @@ image:
   focal_point: ""
   preview_only: true
 projects: []
-publication: 'Clinical Psychology and Psychotherapy, doi: 10.1002/cpp.2969'
-publication_short: "CPP, doi: 10.1002/cpp.2969"
+publication: 'Clinical Psychology and Psychotherapy, 31:e2969'
+publication_short: "CPP, 31:e2969"
 publication_types:
 - "2"
 publishDate: "2024-03-04T00:00:00Z"
