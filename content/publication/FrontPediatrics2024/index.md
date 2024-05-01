@@ -17,7 +17,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-projects: [embody]
+projects: [manage]
 publication: 'Frontiers in Pediatrics. doi: 10.3389/fped.2024.1378459'
 publication_short: ""
 publication_types:
