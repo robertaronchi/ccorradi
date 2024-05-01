@@ -67,7 +67,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_ENG_Picture.pdf
+    link: uploads/CV_ENG.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'corrado.corradi@outlook.com'

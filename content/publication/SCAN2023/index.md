@@ -18,7 +18,7 @@ publication_types:
 publishDate: "2023-03-21T00:00:00Z"
 slides: 
 summary:
-tags: [pain,nociception,attention,cognitive control,Top-down,Bottom-up,effort,fatigue,sequential-task paradigm,fMRI,neuroimaging,connectivity,MVPA,Whole-Brain Signatures,Insula,Cingulate Cortex,dMPFC,Prefrontal cortex,parietal cortex,Stroop]
+tags: [pain,nociception,attention,cognitive control,Top-down,Bottom-up,effort,fatigue,sequential-task paradigm,fMRI,neuroimaging,connectivity,MVPA,Whole-Brain Signatures,Insula,Cingulate Cortex,dMPFC,Prefrontal cortex,parietal cortex,Stroop,distraction]
 title: Distraction and cognitive control independently impact parietal and prefrontal response to pain
 url_code: ""
 url_dataset: ""
