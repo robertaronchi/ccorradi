@@ -18,7 +18,7 @@ image:
   focal_point: ""
   preview_only: true
 projects: [manage, executive_pain]
-publication: 'Frontiers in Pediatrics. doi: 10.3389/fped.2024.1378459'
+publication: 'Frontiers in Pediatrics. 12:1378459'
 publication_short: ""
 publication_types:
 - "2"
@@ -33,7 +33,7 @@ url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://www.frontiersin.org/articles/10.3389/fped.2024.1378459/"
+url_source: ""
 url_video: ""
 
 ---
