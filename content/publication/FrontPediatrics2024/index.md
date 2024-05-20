@@ -26,7 +26,7 @@ publishDate: "2024-05-01T00:00:00Z"
 slides: 
 summary:
 tags: [pain,empathy,emotion,analgesia,Unpleasantness,Pain Management,attention,cognitive control,Virtual Reality, Tablet, Pediatrics, Venipuncture, Anxiety, distraction, Procedural comfort]
-title: Identical Game in Children Undergoing Venipuncture. A Randomized Clinical Trial
+title: Virtual reality vs. tablet for procedural comfort using an identical Game in Children Undergoing Venipuncture. A Randomized Clinical Trial
 url_code: ""
 url_dataset: ""
 url_pdf: ""
