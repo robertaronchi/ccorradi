@@ -3,7 +3,7 @@ abstract: In the early days of the Covid19 pandemic, individuals were asked to p
 authors:
 - Leyla Loued-Khenissi
 - admin
-date: "2024-08-28T00:00:00Z"
+date: "2024-08-26T00:00:00Z"
 doi: "10.3389/fpsyg.2024.1370778"
 featured: false
 image: 
@@ -15,7 +15,7 @@ publication: 'Frontiers in Psychology - Social Cognition, doi: 10.3389/fpsyg.202
 publication_short: "Front. Psych., doi: 10.3389/fpsyg.2024.1370778"
 publication_types:
 - "2"
-publishDate: "2024-08-28T00:00:00Z"
+publishDate: "2024-08-26T00:00:00Z"
 slides: 
 summary:
 tags: [Expectancy,Uncertainty,risk,decision-making,Anticipation,Social cognition,Self-Other distinction,third party,Social interactions,Reward,economical choice,Feedback,Covid-19]
