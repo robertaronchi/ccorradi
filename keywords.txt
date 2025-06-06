@@ -39,12 +39,14 @@ Biological movement
 Feedback,Error
 Spatial coding
 Agency,Disembodiment,Self-objectification
+Bodily self-consciousness, Ownership
 self-injury
 attachment style
 Heart beat counting task,Interoception
 sensory modulation
 effort,fatigue
 sequential-task paradigm
+
 
 Electrophysiology,Skin Conductance Response
 cardiac response,cardiovascular reactivity,heart rate variability
@@ -55,6 +57,7 @@ high-resolution
 voxel-based morphometry
 Lesion symptom mapping
 connectivity,structural equation modeling
+structural disconnection, 
 MVPA
 Representation Similarity
 Whole-Brain Signatures
@@ -83,3 +86,4 @@ Parkinson's disease
 autotopagnosia
 Covid-19
 Brain tumors
+Stroke Patients
