@@ -11,7 +11,7 @@ authors:
 - Roberta Ronchi
 date: "2025-05-07T00:00:00Z"
 doi: "10.1093/braincomms/fcaf217"
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
