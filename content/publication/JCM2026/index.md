@@ -32,5 +32,3 @@ url_source: ""
 url_video: ""
 
 ---
-
-{{< icon name="download" pack="fas" >}} Download {{< staticref "https://osf.io/6x24e/" "newtab" >}}Supplementary Information{{< /staticref >}}.
