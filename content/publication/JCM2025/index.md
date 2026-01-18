@@ -5,7 +5,7 @@ authors:
 - Patrick Taffe
 - admin
 - Olivier Hugli
-date: "2025-01-18T00:00:00Z"
+date: "2026-01-18T00:00:00Z"
 doi: "10.3390/jcm15020782"
 featured: false
 image: 
@@ -17,7 +17,7 @@ publication: 'Journal of Clinical Medicine, 15(2), 782'
 publication_short: "JCM, 15(2), 782"
 publication_types:
 - "2"
-publishDate: "2025-01-18T00:00:00Z"
+publishDate: "2026-01-18T00:00:00Z"
 slides: 
 summary:
 tags: [pain,analgesia,decision-making,risk,nurse-initiated pain protocol,emergency department,workload,triage operational context,triage,Pain Management]
